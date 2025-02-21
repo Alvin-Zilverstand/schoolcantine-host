@@ -217,11 +217,13 @@ body {
         transform: translate(0, 0);
         justify-content: space-around; /* Spread the menu items */
         flex-wrap: wrap; /* Ensure all items are in a single row */
+        padding: 10px; /* Add padding for better spacing */
     }
 
     .menu-item {
-        flex: 1 1 100%; /* Make each menu item take full width */
-        margin: 5px 0; /* Add margin between items */
+        flex: 1 1 48%; /* Make each menu item take half width */
+        margin: 5px 1%; /* Add margin between items */
+        font-size: 1em; /* Adjust font size for better readability */
     }
 
     .product-display {
