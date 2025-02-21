@@ -11,7 +11,7 @@ function showCategory(category) {
             { title: "Broodje Gezond", imageSrc: "media/broodje-gezond.jpg", price: 3.80 },
             { title: "Bagel", imageSrc: "media/bagel.jpeg", price: 4.20 },
             { title: "Broodje Gehakt met Joppiesaus", imageSrc: "media/GehaktJoppie.png", price: 3.80 },
-            { title: "Frikandelbroodje", imageSrc: "media/Frikandelbroodje.png", price: 1.20 },
+            { title: "Frikandelbroodje", imageSrc: "media/frikandelbroodje.png", price: 1.20 },
             { title: "Saucijzenbroodje", imageSrc: "media/Saucijz.png", price: 1.20 },
             
         ];
@@ -51,7 +51,7 @@ function showCategory(category) {
         ];
     } else if (category === 'deserts') {
         items = [
-            { title: "Ijsjes", imageSrc: "media/Ijs.png", price: 2.30 },
+            { title: "Ijsjes", imageSrc: "media/ijs.png", price: 2.30 },
             { title: "Sorbet", imageSrc: "media/sorbet.webp", price: 3.20 },
             { title: "Softijs", imageSrc: "media/softijs.jpg", price: 1.50 },
             { title: "Sundea ijs", imageSrc: "media/sundea.jpg", price: 2.30 },
