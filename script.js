@@ -44,10 +44,10 @@ function showCategory(category) {
         items = [
             { title: "Frikandel", imageSrc: "media/frikandel.jpg", price: 1.60 },
             { title: "Bitterballen", imageSrc: "media/bitterbal.jpg", price: 2.50 },
-            { title: "Mexicano", imageSrc: "media/mexicano.png", price: 1.60 },
-            { title: "Kipcorn", imageSrc: "media/kipcorn.png", price: 1.60 },
-            { title: "Friet", imageSrc: "media/friet.png", price: 4.00 },
-            { title: "Kipnuggets", imageSrc: "media/kipnuggets.png", price: 2.50 },
+            { title: "Mexicano", imageSrc: "media/Mexicano.png", price: 1.60 },
+            { title: "Kipcorn", imageSrc: "media/Kipcorn.png", price: 1.60 },
+            { title: "Friet", imageSrc: "media/Friet.png", price: 4.00 },
+            { title: "Kipnuggets", imageSrc: "media/Kipnuggets.png", price: 2.50 },
         ];
     } else if (category === 'deserts') {
         items = [
